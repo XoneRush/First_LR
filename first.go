@@ -6,7 +6,7 @@ import (
 	"time"
 )
 
-func main() {
+func first() {
 	t := time.Now()
 	fmt.Println("\nТекущее время: " + t.Format(time.RFC1123+"\n"))
 }
