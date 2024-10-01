@@ -4,7 +4,6 @@ import (
 	"fmt"
 	"unicode/utf8"
 )
-
 func init() {}
 
 func IsOdd(number int) {
